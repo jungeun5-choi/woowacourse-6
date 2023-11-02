@@ -2,3 +2,7 @@
 	path = Week_1_Baseball
 	url = https://github.com/jungeun5-choi/java-baseball-6.git
 	branch = jungeun5-choi
+[submodule "Week_2_RacingCar"]
+	path = Week_2_RacingCar
+	url = https://github.com/jungeun5-choi/java-racingcar-6
+	branch = jungeun5-choi
