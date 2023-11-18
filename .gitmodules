@@ -6,3 +6,7 @@
 	path = Week_2_RacingCar
 	url = https://github.com/jungeun5-choi/java-racingcar-6
 	branch = jungeun5-choi
+[submodule "Week_3_Lotto"]
+	path = Week_3_Lotto
+	url = https://github.com/jungeun5-choi/java-lotto-6
+	branch = jungeun5-choi
