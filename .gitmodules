@@ -10,3 +10,7 @@
 	path = Week_3_Lotto
 	url = https://github.com/jungeun5-choi/java-lotto-6
 	branch = jungeun5-choi
+[submodule "Week_4_Christmas"]
+	path = Week_4_Christmas
+	url = https://github.com/jungeun5-choi/java-christmas-6-jungeun5-choi
+	branch = main
